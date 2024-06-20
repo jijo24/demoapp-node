@@ -1,0 +1,20 @@
+{
+  "name": "demoapp-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+       "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jijo24/demoapp-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jijo24/demoapp-node/issues"
+  },
+  "homepage": "https://github.com/jijo24/demoapp-node#readme"
+}
